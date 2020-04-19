@@ -7,3 +7,7 @@
 * Major Segments = 26 and Minor Segments = 14 (Don't make too large segments because it will help us modeling more easier)
 * Major radius: 0.05m (Radius of donut)
 * Minor radius: 0.023 (Radius of height donut, maybe the fat of donut)
+
+### 2. Modeling donut
+* In real world we can't create a donut that have exactly torus shape so that we have make the donut look like real (Quote: Imperfection is the virtual perfection)
+* Using Edit Mode and Proportional Editing to make the donut look lumpy
