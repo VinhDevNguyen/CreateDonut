@@ -11,3 +11,7 @@
 ### 2. Modeling donut
 * In real world we can't create a donut that have exactly torus shape so that we have make the donut look like real (Quote: Imperfection is the virtual perfection)
 * Using Edit Mode and Proportional Editing to make the donut look lumpy
+
+### 3. Make the donut look smooth
+* Right click on the donut and select Shade Smooth
+* In the Modifier Properties and add Subdivision Surface
