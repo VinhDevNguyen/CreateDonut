@@ -15,3 +15,10 @@
 ### 3. Make the donut look smooth
 * Right click on the donut and select Shade Smooth
 * In the Modifier Properties and add Subdivision Surface
+
+### 4. Make donut icing
+* Go to Edit Mode, turn on Toggle X-Ray and select 1/3 height of the donut to create donut icing
+* Go to Modifier Properties and add Solidify to give thickness to the donut icing
+#### Solidify Properties:
+* Offset: Max 1.00 (This will make the donut icing facing outwards)
+* Thickness: 0.0025 m
