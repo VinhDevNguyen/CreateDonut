@@ -24,3 +24,13 @@
 * Thickness: 0.0025 m
 
 __Note:__ To avoid the hard edge, we have to move the Solidify to the first. That's mean it will make the icing thick and then make it will smooth the donut icing for us.
+
+### 5. Make donut icing dribbles down
+* Go to Edit Mode of Icing, press A to sellect all, after that right click on the mesh and choose Subdivide
+#### Subdivide Properties:
+* Number of cuts: 1 (Double the amout of detail)
+* Smoothness: 1 (Smooth face)
+
+After that we hold Alt and click the edge to choose the whole edge, use Ctrl+I to Inverse, use Ctrl + H to hide.
+
+Then we snap dot to the face and make the donut icing dribbles down.
