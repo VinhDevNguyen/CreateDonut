@@ -22,3 +22,5 @@
 #### Solidify Properties:
 * Offset: Max 1.00 (This will make the donut icing facing outwards)
 * Thickness: 0.0025 m
+
+__Note:__ To avoid the hard edge, we have to move the Solidify to the first. That's mean it will make the icing thick and then make it will smooth the donut icing for us.
