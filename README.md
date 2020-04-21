@@ -34,3 +34,6 @@ __Note:__ To avoid the hard edge, we have to move the Solidify to the first. Tha
 After that we hold Alt and click the edge to choose the whole edge, use Ctrl+I to Inverse, use Ctrl + H to hide.
 
 Then we snap dot to the face and make the donut icing dribbles down.
+### 6. Sculpting the donut
+### 7. Set up light, and camera
+### 8. Change material
