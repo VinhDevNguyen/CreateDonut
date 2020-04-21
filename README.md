@@ -38,3 +38,4 @@ Then we snap dot to the face and make the donut icing dribbles down.
 ### 7. Set up light, and camera
 ### 8. Change material
 ### 9. Add color for donut and icing
+### 10. Add denoise
