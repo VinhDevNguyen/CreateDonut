@@ -42,3 +42,5 @@ Then we snap dot to the face and make the donut icing dribbles down.
 
 ## Part 2: Learn how to use Particles, UV unwrapping, texture painting,...
 ### 1. Use Particles to add sprinkles on top of the donut
+### 2. Texture paint
+### 3. Create bump to make donut more realistic
