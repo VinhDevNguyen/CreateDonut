@@ -39,3 +39,6 @@ Then we snap dot to the face and make the donut icing dribbles down.
 ### 8. Change material
 ### 9. Add color for donut and icing
 ### 10. Add denoise
+
+## Part 2: Learn how to use Particles, UV unwrapping, texture painting,...
+### 1. Use Particles to add sprinkles on top of the donut
