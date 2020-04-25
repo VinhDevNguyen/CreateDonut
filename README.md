@@ -45,3 +45,4 @@ Then we snap dot to the face and make the donut icing dribbles down.
 
 # Level 3: Make a cup of coffee
 ### 1. Model a cup using real image
+### 2. Model the plate
